@@ -13108,6 +13108,9 @@ const targetWords = [
 	
   "susie",
   "sword",
+  "south",
+  "north",
+  "prune",
 
 	]
 
