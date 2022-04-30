@@ -12987,7 +12987,7 @@ const dictionary = [
 ]
 
 const targetWords = [
-  "spark",
+  "fuzzy",
   
 
 	]
