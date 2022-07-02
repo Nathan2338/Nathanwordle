@@ -12987,9 +12987,6 @@ const dictionary = [
 ]
 
 const targetWords = [
-  "fuzzy",
-  "birds",
-  "birth",
   "house",	
 
 	]
